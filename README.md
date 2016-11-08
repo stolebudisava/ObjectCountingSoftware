@@ -1,6 +1,5 @@
 # ObjectCountingSoftware
 
-PokretnaTraka is software i've created during studying on 
-Faculty of technical sciences for my bachelor degree title - Softver za klasifikaciju objekata na pokretnoj traci (Software for classification of objects on coveyour belt).
-Written in C++, it uses OpenCV libraries for identification and classification of moving different objects by their color, counting them in current frame of camera video. Software also shoots video of all proccess automatically or manually and creates a log file
-which contains what type of object in what periods of time object have passed on conveyour belt.
+PokretnaTraka is software i've created during my studies on
+Faculty of technical sciences in Novi Sad
+for my bachelor with honours Software for classification of objects on conveyor belt (Softver za klasifikaciju objekata na pokretnoj traci). Written in C++, it uses OpenCV libraries for identification and classification of different moving objects by their color, counting them in current frame of video. Software creates video of all process (objects marked using augmented reality) automatically or manually (user defines it) and creates a log file which contains what type of object in what period of time have passed on conveyor belt.
